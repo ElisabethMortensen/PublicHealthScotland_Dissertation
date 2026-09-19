@@ -2,6 +2,8 @@
 
 This project uses publicly available A&E monthly demographic attendance data for Scotland from Public Health Scotland to investigate possible populations at most risk for attending A&E.
 
+Further information on background, methodology, and findings can be found in the [paper](https://github.com/ElisabethMortensen/PublicHealthScotland_Dissertation/blob/main/PublicHealthScotland_paper.pdf).
+
 ## Data
 
 Three data files are required and should be added to the working directory where you will be running the files, `monthly_attendance_demographics.csv` (monthly A&E attendance count data by demographics), `datazone_pop_estimates.csv`(population estimates for Scotland Data Zones), and `SIMD2020_popweighted.csv` (population weighted Data Zone to Health Board and Deprivation lookup).
